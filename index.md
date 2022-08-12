@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Markdown Tips and Tricks 
 
-You can use the [editor on GitHub](https://github.com/mcman2017/DevSecOps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are interested instead in automation, Cloud,  and Distributed Computing, check out [My DevOps website](https://theclamlife.com)
 
 ### Markdown
+
+The site you are viewing is 100% markdown, rendered with Jekyll using the slate theme, published via [GitHub Pages](https://pages.github.com/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
