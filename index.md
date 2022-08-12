@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+[]:#(an invisible comment?)
+use three backticks to display raw markdown, not parsed into HTML, like:
+
+```
+[]:#(an invisible comment?)
+```
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
