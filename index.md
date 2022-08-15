@@ -25,14 +25,16 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[](a comment that is NOT displayed on the published markdown page)
+[](Unless it comes inside a code block like this one.  see below)
+
+Use three ticks at the start and end of a code block.
+put the code language after the first three ticks (no spaces) to enable code highlighting
+tick tick tick markdown
 ```
 
-[](a comment that is NOT displayed on the markdown page)
-
-use three backticks and markdown to display raw markdown, not parsed into HTML, like:  
-```markdown
-[](Create an invisible comment by using an empty link and put the comment in parentheses)
-```
+[](a comment that is NOT displayed on the published markdown page)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
