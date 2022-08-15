@@ -27,8 +27,8 @@ Syntax highlighted code block
 ```
 
 []:#(an invisible comment?)
-use three backticks to display raw markdown, not parsed into HTML, like:
 
+use three backticks to display raw markdown, not parsed into HTML, like:
 ```
 []:#(an invisible comment?)
 ```
