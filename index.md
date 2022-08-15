@@ -1,4 +1,5 @@
 ## Welcome to Markdown Tips and Tricks 
+Take your Markdown game to the next level.
 
 If you are interested instead in automation, Cloud,  and Distributed Computing, check out [My DevOps website](https://theclamlife.com)
 
@@ -26,11 +27,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[]:#(an invisible comment?)
+[]#(an invisible comment)
 
 use three backticks to display raw markdown, not parsed into HTML, like:  
 ```
-[]:#(an invisible comment?)
+[]#(Create an invisible comment by using an empty link and put the comment in parentheses)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
