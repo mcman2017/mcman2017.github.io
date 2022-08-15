@@ -27,11 +27,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[]#(an invisible comment)
+[](a comment that is NOT displayed on the markdown page)
 
-use three backticks to display raw markdown, not parsed into HTML, like:  
-```
-[]#(Create an invisible comment by using an empty link and put the comment in parentheses)
+use three backticks and markdown to display raw markdown, not parsed into HTML, like:  
+```markdown
+[](Create an invisible comment by using an empty link and put the comment in parentheses)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
